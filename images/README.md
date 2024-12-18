@@ -1,0 +1,15 @@
+# Image and video sources used in code examples
+
+* Public domain `cat_in_hat.png` image from __Kittens and Cats: A First Reader (1911)__. retrieved from [The Public Domain Review](https://publicdomainreview.org/collection/kittens-and-cats-a-first-reader-1911-cats-and-captions-before-the-internet-age/)
+* Forest video by Ruvim Miksanskiy on [Pexels](https://www.pexels.com/video/video-of-forest-1448735/)
+
+## Royalty Free Stock images from Unsplash
+
+* Girl in blue denim jacket riding brown horse during daytime: by <a href="https://unsplash.com/@christinebenton?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christine Benton</a> on <a href="https://unsplash.com/photos/girl-in-blue-denim-jacket-riding-brown-horse-during-daytime-QY_bTy8tXAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* A large bird flying through a cloudy blue sky: by <a href="https://unsplash.com/@pic_nolte?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christoph Nolte</a> on <a href="https://unsplash.com/photos/a-large-bird-flying-through-a-cloudy-blue-sky-ApW2xFFwLcU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* A couple of giraffe standing on top of a dry grass field: by <a href="https://unsplash.com/@kianjm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kian Malakooti</a> on <a href="https://unsplash.com/photos/a-couple-of-giraffe-standing-on-top-of-a-dry-grass-field-UQPar9EU5Ho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* A snow covered mountain with a blue sky in the background: by <a href="https://unsplash.com/@lukethornton?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Thornton</a> on <a href="https://unsplash.com/photos/a-snow-covered-mountain-with-a-blue-sky-in-the-background-rx5EinLMQiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* A snow covered mountain in the middle of the day: by <a href="https://unsplash.com/@marekpiwnicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marek Piwnicki</a> on <a href="https://unsplash.com/photos/a-snow-covered-mountain-in-the-middle-of-the-day-TdIsYhMuwPc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* A mountain range with a house in the foreground: by <a href="https://unsplash.com/@cestmoisheedy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sarah Sheedy</a> on <a href="https://unsplash.com/photos/a-mountain-range-with-a-house-in-the-foreground-PpGMMvqBo9w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* A view of a mountain with trees in the foreground: by <a href="https://unsplash.com/@sharadmbhat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sharad Bhat</a> on <a href="https://unsplash.com/photos/a-view-of-a-mountain-with-trees-in-the-foreground-AmvLnWUBWWA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    
