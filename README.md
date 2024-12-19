@@ -3,6 +3,8 @@
 [![Twitter Follow badge](https://img.shields.io/twitter/follow/jonathandinu)](https://twitter.com/jonathandinu)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi0Hd3U6xb4V0ApUhAIfu9Q?color=%23FF0000&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 
+https://github.com/user-attachments/assets/aaaa5c79-e9c0-4cc7-83af-429cbf23f395
+
 > 18+ hours of video taking you all the way from VAEs to near real-time Stable Diffusion with PyTorch and Hugging Face... with plenty of hands-on examples to make deep learning fun again!
 
 This repository contains the code, slides, and examples from my [Programming Generative AI](https://www.oreilly.com/videos/programming-generative-ai/9780135381090/) video course.
