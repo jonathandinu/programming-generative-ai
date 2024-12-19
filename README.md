@@ -72,12 +72,6 @@ print(f"Using {device} device")
 
 > If no compatible device can be found, the code will default to a CPU backend. This should be fine for Lessons 1 and 2 but for any of the image generation examples (pretty much everything after lesson 2), not using a GPU will likely be uncomfortably slow—in that case I would recommend using the Google Colab links in the table above. 
 
-<!-- 
-## Selected Examples
-
-These are some of my favorite examples from the course of what cool things you can do with Generative AI, to give you a taste of what you can expect.
-
-Coming Soon.... -->
 
 
 ## Skill Level
